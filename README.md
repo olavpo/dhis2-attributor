@@ -13,3 +13,5 @@ Three input arguments are required:
 
 Example:
 `node app.js metadata.json attributelist.csv Hjd827dKKds2`
+
+The result will be written to a file postfixed \_out, for example `metadata_out.json`
