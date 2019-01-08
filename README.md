@@ -1,4 +1,4 @@
-#DHIS2 Attributor
+# DHIS2 Attributor
 Tool for adding attributes to DHIS2 metadata files.
 
 ## Installation
