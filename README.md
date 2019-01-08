@@ -1,5 +1,5 @@
 # DHIS2 Attributor
-Tool for adding attributes to DHIS2 metadata files.
+Tool for adding attribute values to objects in DHIS2 metadata files.
 
 ## Installation
 `npm install`
